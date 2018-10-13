@@ -51,6 +51,7 @@ const createMemo = (stickyObj) => {
   line-height: 15px !important;
   `;
 
+  /*It is the code of the text style. */
   newText.style.cssText = `
   background: #FDF49F;
   display: block;
